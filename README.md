@@ -1,2 +1,2 @@
 # probandoPokedex
-Consumiendo una API por primera vez. Probando algo sencillo con PokeAPI
+Consumiendo una API por primera vez con Javascript. Probando algo sencillo con PokeAPI
