@@ -1,0 +1,5 @@
+<!-- crea la burbuja posterior al Pokemon -->
+
+<svg viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100%" id="blobSvg">
+  <path id="blob" d="M452,317.5Q411,385,348,417Q285,449,215,440.5Q145,432,102,376Q59,320,39.5,243Q20,166,82.5,117Q145,68,215.5,57Q286,46,347,81.5Q408,117,450.5,183.5Q493,250,452,317.5Z" fill="#a29bfe"></path>
+</svg>
